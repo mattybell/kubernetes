@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-hubName=mattybee
-
 images=(
     gcr.io/google_containers/heapster-amd64:v1.3.0-beta.1
     gcr.io/google_containers/k8s-dns-kube-dns-amd64:1.14.5
